@@ -1,0 +1,14 @@
+DeveloperMachine.targets
+
+.vs
+obj/
+x64/
+[Dd]ebug/
+DebugTestApp/
+ReleaseTestApp/
+[Bb]in/
+*.suo
+*.user
+Release/
+packages/
+_ReSharper.Caches/
